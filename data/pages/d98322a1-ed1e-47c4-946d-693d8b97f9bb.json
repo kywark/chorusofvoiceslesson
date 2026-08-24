@@ -1,0 +1,141 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Student Instructions:",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Navigate through the following pages, being sure to read/watch/listen to all the items enclosed. If something is blocked, please let your instructors know!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Periodically, there will be action items "
+                },
+                {
+                  "text": "bolded",
+                  "bold": true
+                },
+                {
+                  "text": ". Follow the action item. There will also be "
+                },
+                {
+                  "text": "underlined and bolded questions",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": " to which you will respond, using the manner your instructor requires (e.g., Google Doc, notebook and paper)."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "So, to begin…."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nListen to the recording below. "
+                },
+                {
+                  "text": "What stands out to you? ",
+                  "bold": true
+                },
+                {
+                  "text": "Jot down three (3) specific observations you have about what plays (no need for complete sentences):",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "e08084a6-eee0-4aa6-81b7-8425020cee2b",
+              "includes": [
+                "media"
+              ],
+              "end": 89,
+              "file": "005eea0e-c97d-4a1c-9e96-55d529a862b2",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Then, click here.",
+                  "textSize": "heading-three"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Student Introductions:",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "student-introductions",
+  "created_at": "2026-08-24T03:12:48.343Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-24T03:12:48.343Z",
+  "updated_by": "kywark"
+}

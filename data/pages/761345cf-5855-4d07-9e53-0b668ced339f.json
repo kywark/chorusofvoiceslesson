@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This lesson is intended for use in sophomore level high school classrooms, though it could certainly be adapted for other grade levels in 9-12 education. It serves as an introduction to working with sound in poetry, moving students through the analytical process of close reading a poem (paraphrase → observe → contextualize → analyze → argue → reflect). "
+        },
+        {
+          "text": "By the end of the ~50 minute lesson,",
+          "bold": true
+        },
+        {
+          "text": " students will practice applying poetic analysis of sound to their own poem of choice from around the world, culminating in an informal oral analysis."
+        }
+      ]
+    }
+  ],
+  "title": "Home",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "home",
+  "created_at": "2026-08-24T00:37:19.125Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-24T00:37:19.125Z",
+  "updated_by": "kywark"
+}

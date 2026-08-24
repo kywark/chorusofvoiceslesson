@@ -75,6 +75,27 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "uuid": "15d05c1d-ae42-405b-bfff-5dbae687c90b",
+              "includes": [
+                "media",
+                "annotations"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -87,16 +108,291 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Finally, review this list of poetic devices below. "
+        },
+        {
+          "text": "Where do the terms below help explain or add to your annotations? Write as many as you see!",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "stanza: ",
+                  "bold": true
+                },
+                {
+                  "text": "a group of lines in a poem that are arranged together; a \"paragraph\" in poetry."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "enjambment: ",
+                  "bold": true
+                },
+                {
+                  "text": "when a sentence or thought continues past the end of a poetic line without punctuation."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "simile: ",
+                  "bold": true
+                },
+                {
+                  "text": "a comparison between two unlike things using “like” or “as.”"
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "allusion:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "rhyme: ",
+                  "bold": true
+                },
+                {
+                  "text": "repeating similar or identical sounds, usually at the ends of lines."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "rhetorical question: ",
+                  "bold": true
+                },
+                {
+                  "text": "a question asked to create an effect or make the audience think rather than to receive an actual answer."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "repetition: ",
+                  "bold": true
+                },
+                {
+                  "text": "repeating a word, phrase, sound, or idea to emphasize it or create a particular effect."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "comparison: ",
+                  "bold": true
+                },
+                {
+                  "text": "looking at two things to see how they are alike."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "contrast: ",
+                  "bold": true
+                },
+                {
+                  "text": " looking at two things to see how they are different."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "anaphora: "
+                },
+                {
+                  "text": "repeating a word or phrase at the "
+                },
+                {
+                  "text": "beginning",
+                  "bold": true
+                },
+                {
+                  "text": " of multiple lines, sentences, or clauses."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "personification: ",
+                  "bold": true
+                },
+                {
+                  "text": "giving human qualities or actions to something nonhuman or abstract."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "alliteration: "
+                },
+                {
+                  "text": "repeating the "
+                },
+                {
+                  "text": "beginning ",
+                  "bold": true
+                },
+                {
+                  "text": "consonant sound in nearby words."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "consonance: "
+                },
+                {
+                  "text": "repeating consonant sounds"
+                },
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": " "
+                },
+                {
+                  "text": "anywhere",
+                  "bold": true
+                },
+                {
+                  "text": " within or at the ends of nearby words."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "sibilance: "
+                },
+                {
+                  "text": "repeating “hissing” consonant sounds, especially "
+                },
+                {
+                  "text": "s, sh, z,",
+                  "italic": true
+                },
+                {
+                  "text": " and sometimes "
+                },
+                {
+                  "text": "f, ",
+                  "italic": true
+                },
+                {
+                  "text": "anywhere",
+                  "bold": true
+                },
+                {
+                  "text": " in the word."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "assonance: "
+                },
+                {
+                  "text": "repeating vowel sounds in nearby words."
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "caesura: "
+                },
+                {
+                  "text": "a deliberate pause within a line of poetry, often created by punctuation."
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
-  "title": "Part III: Learn Harlem",
+  "title": "Part III: Learn Harlem (2/2)",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "part-iii-learn-harlem",
+  "slug": "part-iii-learn-harlem-22",
   "created_at": "2026-08-24T14:28:48.352Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T14:28:48.352Z",
+  "updated_at": "2026-08-24T14:45:04.983Z",
   "updated_by": "kywark"
 }

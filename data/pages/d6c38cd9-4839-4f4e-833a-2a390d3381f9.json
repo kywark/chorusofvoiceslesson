@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Federico García Lorca, \"The Guitar\"",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "federico-garcia-lorca-the-guitar",
+  "created_at": "2026-08-24T18:39:41.161Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-24T18:39:41.161Z",
+  "updated_by": "kywark"
+}

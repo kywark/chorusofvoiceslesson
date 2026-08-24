@@ -1,0 +1,102 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "How do your new annotations compare? "
+        },
+        {
+          "text": "Compare your second round of annotations to the example below and listen to the explanation behind them. What do you notice? How does your annotation process compare? ",
+          "bold": true
+        },
+        {
+          "bold": true,
+          "text": "Add any new insights gained to your own annotations.",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://ia800404.us.archive.org/6/items/screenshot-2026-08-24-at-9.22.58-am/Screenshot%202026-08-24%20at%209.22.58%E2%80%AFAM.png",
+              "caption": "Annotations by Kylie Warkentin.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Part III: Learn Harlem",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "part-iii-learn-harlem",
+  "created_at": "2026-08-24T14:28:48.352Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-24T14:28:48.352Z",
+  "updated_by": "kywark"
+}

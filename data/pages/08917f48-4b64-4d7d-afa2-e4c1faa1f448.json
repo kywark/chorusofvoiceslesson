@@ -71,6 +71,27 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "uuid": "07722768-d728-4b09-97be-119972133628",
+              "includes": [
+                "media",
+                "annotations"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -154,7 +175,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "After you add to your annotations, click here.",
+          "textSize": "heading-three"
         }
       ]
     }
@@ -167,6 +189,6 @@
   "slug": "part-ii-learn-harlem",
   "created_at": "2026-08-24T03:29:15.320Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T03:36:22.878Z",
+  "updated_at": "2026-08-24T14:19:37.858Z",
   "updated_by": "kywark"
 }

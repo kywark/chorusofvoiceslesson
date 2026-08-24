@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "e08084a6-eee0-4aa6-81b7-8425020cee2b",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-08-24T00:34:52.333Z",
   "created_by": "kywark",
   "title": "Hughes",
   "slug": "hughes",
-  "updated_at": "2026-08-24T00:34:52.333Z",
+  "updated_at": "2026-08-24T00:35:03.147Z",
   "updated_by": "kywark",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "e08084a6-eee0-4aa6-81b7-8425020cee2b"
   }

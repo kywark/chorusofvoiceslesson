@@ -7,7 +7,7 @@
           "text": "This lesson is intended for use in sophomore level high school classrooms, though it could certainly be adapted for other grade levels in 9-12 education. It serves as an introduction to working with sound in poetry, moving students through the analytical process of close reading a poem (paraphrase → observe → contextualize → analyze → argue → reflect). "
         },
         {
-          "text": "By the end of the ~50 minute lesson,",
+          "text": "By the end of the ~60 minute lesson,",
           "bold": true
         },
         {
@@ -27,7 +27,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Students can work individually or in pairs. It is entirely self-paced for the students. To deliver this lesson, simply provide this project link to students: "
+          "text": "Students can work individually or in pairs. It is entirely self-paced for the students. To deliver this lesson, simply provide this project link to students: . Then, be sure they have a print out of \"Harlem\" by Langston Hughes and whatever poem they select for \"Part II: Explore Your Own Poem!\" "
         }
       ]
     },
@@ -35,7 +35,131 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "They will navigate through the lesson by reading, watching, and listening to the resources in the project. Anything that is bolded is an action item for students to read/watch/do; anything that's bolded and underlined is a question (or questions) that students will respond to in a method of your choosing (e.g., Google Doc, notebook paper, etc.). The questions have been typed out below for ease of creating that response document:"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "They will navigate through the lesson by reading, watching, and listening to the resources in the project. Anything that is "
+        },
+        {
+          "text": "bolded",
+          "bold": true
+        },
+        {
+          "text": " is an action item for students to read/watch/do; anything that's "
+        },
+        {
+          "text": "bolded and underlined",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": " is a question (or questions) that students will respond to in a method of your choosing (e.g., Google Doc, notebook paper, etc.). "
+        },
+        {
+          "text": "By the end of the lesson, students should have responses addressing:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "2-3 observations about the jazz clip that plays in \"Student Instructions.\""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Annotations for their first read/listen of \"Harlem\" from \"Part I: Harlem (1/4).\""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "3-4 observations about how their annotations compare to the example from \"Part I: Learn Harlem (2/4).\""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Additional annotations addressing sound, idea, and form in \"Harlem\" from \"Part I: Learn Harlem (2/4).\""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Additional insights from how their annotations compare to the example from \"Part I: Learn Harlem (3/4).\""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Labeled poetic devices on their annotations of \"Harlem\" from \"Part I: Learn Harlem (3/4).\""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Additional poetic devices added to their \"Harlem\" annotations from the example in \"Part I: Learn Harlem (4/4).\""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Elaboration in their \"Harlem\" annotations of how the poetic devices in one moment convey Hughes's meaning in \"Part I: Learn Harlem (4/4).\""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "2-3 sentence answer addressing what they believe Hughes is trying to convey at the bottom of their \"Harlem\" annotations."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Their annotations and notes for their chosen poem in \"Part II: Explore Your Own Poem!\" (that will eventually turn into an oral analysis of their chosen poem)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The lesson culminates in annotations and an oral analysis of the students' chosen poem. Depending on your level of comfort with AVAnnotate, you can either provide students with a physical copy of their chosen poem and allow them to record their oral analyses in a method of your choosing (voice memo on phone, recording on laptop, handwritten analysis, etc.), or you could have them build their own AVAnnotate project with their annotations and analyses. To support on how students can build their own AVAnnotate project, please consult the instructions and resources "
+        },
+        {
+          "text": "found in our documentation.",
+          "link": "https://avannotate.github.io/documentation/"
         }
       ]
     },
@@ -56,6 +180,6 @@
   "slug": "home",
   "created_at": "2026-08-24T00:37:19.125Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T03:07:53.659Z",
+  "updated_at": "2026-08-24T18:12:08.203Z",
   "updated_by": "kywark"
 }

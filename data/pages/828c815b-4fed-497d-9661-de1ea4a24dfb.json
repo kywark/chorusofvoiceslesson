@@ -112,6 +112,34 @@
           "underline": true
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "When you're done, click ",
+          "textSize": "heading-three"
+        },
+        {
+          "textSize": "heading-three",
+          "text": "here",
+          "link": "https://kywark.github.io/chorusofvoiceslesson/pages/part-ii-explore-your-own-poem/"
+        },
+        {
+          "textSize": "heading-three",
+          "text": "."
+        }
+      ]
     }
   ],
   "title": "Part I: Learn Harlem (4/4)",
@@ -122,6 +150,6 @@
   "slug": "part-i-learn-harlem-44",
   "created_at": "2026-08-24T14:47:33.834Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T15:24:11.706Z",
+  "updated_at": "2026-08-24T18:57:58.858Z",
   "updated_by": "kywark"
 }

@@ -4,7 +4,49 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Finally, compare your annotations to the example annotations below. ",
+          "bold": true
+        },
+        {
+          "bold": true,
+          "text": "Where can you add to your own annotations? Do so!",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "But remember: Understanding poetry is about more than just labeling devices. Devices help us explain "
+        },
+        {
+          "text": "how",
+          "italic": true
+        },
+        {
+          "text": " the writer creates meaning in the text. To move from device to meaning, ask yourself, \"How does this device impact this moment in the poem? Why is it important to the overall ideas of the text?\" "
+        },
+        {
+          "text": "Listen to an explanation of just one impactful moment below. Then, add to your own annotations by choosing one device to ask \"why\"!",
+          "bold": true,
+          "underline": true
         }
       ]
     }
@@ -17,6 +59,6 @@
   "slug": "part-i-learn-harlem-44",
   "created_at": "2026-08-24T14:47:33.834Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T14:49:02.488Z",
+  "updated_at": "2026-08-24T15:16:58.553Z",
   "updated_by": "kywark"
 }

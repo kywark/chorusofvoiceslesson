@@ -10,9 +10,6 @@
           "text": "What do you notice? How does your annotation process compare? Jot down 3-4 observations.\n",
           "bold": true,
           "underline": true
-        },
-        {
-          "text": "\n"
         }
       ]
     },
@@ -20,7 +17,78 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Let’s add to your annotations with a second pass through, building off the good work you already did in your initial reading! To do so, consider the below image:"
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://ia601507.us.archive.org/10/items/screenshot-2026-08-23-at-10.23.59-pm/Screenshot%202026-08-23%20at%2010.23.59%E2%80%AFPM.png",
+              "caption": "Created by Kylie Warkentin.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nLet’s add to your annotations with a second pass through, building off the good work you already did in your initial reading! To do so, consider the below image:"
         }
       ]
     },
@@ -99,6 +167,6 @@
   "slug": "part-ii-learn-harlem",
   "created_at": "2026-08-24T03:29:15.320Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T03:29:15.320Z",
+  "updated_at": "2026-08-24T03:36:22.878Z",
   "updated_by": "kywark"
 }

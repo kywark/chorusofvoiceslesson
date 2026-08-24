@@ -228,6 +228,18 @@
                       "text": "looking at two things to see how they are alike."
                     }
                   ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "contrast",
+                      "bold": true
+                    },
+                    {
+                      "text": ": looking at two things to see how they are different."
+                    }
+                  ]
                 }
               ]
             }
@@ -236,23 +248,6 @@
         {
           "type": "column",
           "children": [
-            {
-              "type": "bulleted-list",
-              "children": [
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "contrast: ",
-                      "bold": true
-                    },
-                    {
-                      "text": " looking at two things to see how they are different."
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "type": "bulleted-list",
               "children": [
@@ -274,7 +269,12 @@
                       "text": " of multiple lines, sentences, or clauses."
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
                 {
                   "type": "list-item",
                   "children": [
@@ -399,6 +399,6 @@
   "slug": "part-i-learn-harlem-34",
   "created_at": "2026-08-24T14:28:48.352Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T18:41:07.284Z",
+  "updated_at": "2026-08-24T18:41:36.985Z",
   "updated_by": "kywark"
 }

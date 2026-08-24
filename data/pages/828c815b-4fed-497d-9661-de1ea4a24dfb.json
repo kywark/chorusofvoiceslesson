@@ -23,6 +23,24 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://ia903209.us.archive.org/6/items/gen_20260824/Gen.png",
+      "caption": "Created by Kylie Warkentin.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -49,6 +67,51 @@
           "underline": true
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "7b56e429-49eb-4da3-b051-9edbd501e51b",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "So, what do you think this poem is really saying? What happens to a \"dream deferred\"?  What does Hughes suggest about what happens when the dreams of an individual or community are continually denied? ",
+          "bold": true
+        },
+        {
+          "bold": true,
+          "text": "Answer in 2-3 complete sentences below your poem.",
+          "underline": true
+        }
+      ]
     }
   ],
   "title": "Part I: Learn Harlem (4/4)",
@@ -59,6 +122,6 @@
   "slug": "part-i-learn-harlem-44",
   "created_at": "2026-08-24T14:47:33.834Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T15:16:58.553Z",
+  "updated_at": "2026-08-24T15:24:11.706Z",
   "updated_by": "kywark"
 }

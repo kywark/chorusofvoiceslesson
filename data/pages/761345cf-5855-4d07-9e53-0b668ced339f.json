@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This lesson is intended for use in sophomore level high school classrooms, though it could certainly be adapted for other grade levels in 9-12 education. It serves as an introduction to working with sound in poetry, moving students through the analytical process of close reading a poem (paraphrase → observe → contextualize → analyze → argue → reflect). "
+          "text": "This lesson is intended for use in sophomore level high school classrooms, though it could certainly be adapted for other grade levels in 9-12 education. It serves as an introduction to working with sound in poetry, moving students through the analytical process of close reading a poem. "
         },
         {
           "text": "By the end of the ~60 minute lesson,",
@@ -27,7 +27,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Students can work individually or in pairs. It is entirely self-paced for the students. To deliver this lesson, simply provide this project link to students: . Then, be sure they have a print out of \"Harlem\" by Langston Hughes and whatever poem they select for \"Part II: Explore Your Own Poem!\" "
+          "text": "Students can work individually or in pairs. It is entirely self-paced for the students. To deliver this lesson, simply provide this project link to students: "
+        },
+        {
+          "text": "https://kywark.github.io/chorusofvoiceslesson/",
+          "link": "https://kywark.github.io/chorusofvoiceslesson/",
+          "bold": true
+        },
+        {
+          "text": ".",
+          "bold": true
+        },
+        {
+          "text": " Then, be sure they have a print out of \"Harlem\" by Langston Hughes and whatever poem they select for \"Part II: Explore Your Own Poem!\" "
         }
       ]
     },
@@ -180,6 +192,6 @@
   "slug": "home",
   "created_at": "2026-08-24T00:37:19.125Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T18:12:08.203Z",
+  "updated_at": "2026-08-24T18:13:18.819Z",
   "updated_by": "kywark"
 }

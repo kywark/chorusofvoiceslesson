@@ -1,6 +1,23 @@
 {
   "content": [
     {
+      "type": "image",
+      "url": "https://poetrylive.net/wp-content/uploads/2013/05/grace.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -11,7 +28,7 @@
           "link": "https://poetryarchive.org/poet/grace-nichols/"
         },
         {
-          "text": ", Grace Nichols is a "
+          "text": ", Grace Nichols (1950-) is a Guyanese poet who moved to live in the UK in 1977.  Her work deals with her experience both in her homeland of Guyana and living in the UK. Nichols is specifically influenced by the oral story-telling tradition and folk tales of her home, landscape and its rural tasks and the history of enslavement (particularly relating to women)."
         }
       ]
     }
@@ -24,6 +41,6 @@
   "slug": "grace-nichols-to-my-coral-bones",
   "created_at": "2026-08-24T17:56:46.505Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T17:56:46.506Z",
+  "updated_at": "2026-08-25T19:13:02.486Z",
   "updated_by": "kywark"
 }

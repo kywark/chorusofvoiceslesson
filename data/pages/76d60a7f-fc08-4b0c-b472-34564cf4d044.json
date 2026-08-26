@@ -10,6 +10,30 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://www.nybooks.com/wp-content/uploads/2013/04/simic_1-122211.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "According to "
+        },
+        {
+          "text": "Poetry Foundation",
+          "link": "https://www.poetryfoundation.org/poets/wisaawa-szymborska"
+        },
+        {
+          "text": ", Wisława Szymborska (1923-2012) was a Polish poet whose work explored identity, human nature, and the relationship between individual, domestic moments and the larger historical moment around them. Often using an ironic wit and deceptive simplicity, her poetry received international recognition when she won the Nobel Prize for Literature in 1996. The Academy in particular praised her “poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality.”"
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -23,7 +47,21 @@
       "children": [
         {
           "bold": true,
-          "text": "Be sure you have a copy of Szymborska's poem, \"The End and the Beginning.\" Then, listen to Nichols read her work, following our annotation procedure as modeled with Hughes's \"Harlem.\""
+          "text": "Be sure you have a copy of Szymborska's poem, \"The End and the Beginning.\" Then, listen to "
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/@KristenTwardowskiAntiqueThings",
+          "children": [
+            {
+              "text": "Kristen Twardowski",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "text": "read her work, following our annotation procedure as modeled with Hughes's \"Harlem.\"",
+          "bold": true
         },
         {
           "text": " Depending on your instructor, you may either do these annotations directly in an AVAnnotate project (that you should then share with your instructor) or on paper."
@@ -48,6 +86,18 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "87857429-c2db-4b22-bff5-7aee4cef1092",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -195,7 +245,7 @@
   "slug": "wislawa-szymborska-the-end-and-the-beginnin",
   "created_at": "2026-08-24T18:39:19.718Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T02:13:45.733Z",
+  "updated_at": "2026-08-26T02:37:39.315Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

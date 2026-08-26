@@ -51,8 +51,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Be sure you have a copy of Nichols's poem, \"To My Coral Bones.\" Then, listen to Nichols read her work, following our annotation procedure as modeled with Hughes's \"Harlem.\" ",
+          "text": "Be sure you have a copy of Nichols's poem, ",
           "bold": true
+        },
+        {
+          "bold": true,
+          "text": "\"To My Coral Bones.\"",
+          "link": "https://poetryarchive.org/poem/my-coral-bones/"
+        },
+        {
+          "bold": true,
+          "text": " Then, listen to Nichols read her work, following our annotation procedure as modeled with Hughes's \"Harlem.\" "
         },
         {
           "text": "Depending on your instructor, you may either do these annotations directly in an AVAnnotate project (that you should then share with your instructor) or on paper."
@@ -200,7 +209,7 @@
   "slug": "grace-nichols-to-my-coral-bones",
   "created_at": "2026-08-24T17:56:46.505Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T01:55:50.897Z",
+  "updated_at": "2026-08-26T03:57:33.814Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

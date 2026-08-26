@@ -7,6 +7,126 @@
           "text": ""
         }
       ]
+    },
+    {
+      "uuid": "b3e50b8a-fa7b-4ae1-81ab-5fca52c049e6",
+      "includes": [
+        "media"
+      ],
+      "start": 750,
+      "end": 836,
+      "file": "93e4be81-e883-458f-8d8c-c2379547d15b",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Once you're done annotating your poem, use them to help you construct a 3-5 minute oral analysis answering the following prompt:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "How do individuals navigate their relationships with the communities around them? Use textual evidence and poetic devices to discuss how your poem explores this question, being sure to address how your poet utilizes sound to do so. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In your response, be sure to:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Begin with a thesis statement that clearly addresses all components of the prompt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Discuss at least 2-3 direct quotes from the poem to support your thesis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Use poetic devices to explain HOW these direct quotes support your thesis and WHY it's important to the overall ideas of the poem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "End with a final \"so what?\" that clearly circles back to your thesis and addresses how this poem connects to the overall human experience (i.e., theme). "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Your instructor will give you specific instructions on how to record and where to submit your analysis."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
     }
   ],
   "title": "Sujata Bhatt, \"Search for My Tongue\"",
@@ -17,7 +137,7 @@
   "slug": "sujata-bhatt-search-for-my-tongue",
   "created_at": "2026-08-24T18:38:33.976Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-25T23:59:17.151Z",
+  "updated_at": "2026-08-26T00:04:48.896Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

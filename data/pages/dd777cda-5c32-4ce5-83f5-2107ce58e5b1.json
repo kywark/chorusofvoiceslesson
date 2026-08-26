@@ -9,14 +9,83 @@
       ]
     },
     {
-      "uuid": "b3e50b8a-fa7b-4ae1-81ab-5fca52c049e6",
-      "includes": [
-        "media"
+      "type": "image",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1Y-rDGDuHhJFbn3poeX2bMNqJrBBp-zTHrOrPgcyMrWvdjqo-5sNjxI&s=10",
+      "children": [
+        {
+          "text": ""
+        }
       ],
-      "start": 750,
-      "end": 836,
-      "file": "93e4be81-e883-458f-8d8c-c2379547d15b",
-      "type": "event",
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "According to "
+        },
+        {
+          "text": "Poetry Archive",
+          "link": "https://poetryarchive.org/poet/sujata-bhatt/"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Sujata Bhatt ",
+          "bold": true
+        },
+        {
+          "text": "(1956-) grew up in Pune, India, but later emigrated to the United States in 1968. Her work deals with her complicated relationship with her own identity and culture, specifically focusing on language. For Bhatt, her childhood in India speaking Gujarati forms \"the deepest layer of [her] identity\"; yet, English is the language she mainly speaks and writes in to this day. Bhatt's poetry often engages directly with this complexity, both on an individual and historical level. Besides language, Bhatt's work also explores migration, memory, and belonging."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Be sure you have a copy of Bhatt's poem, \"A Different History.\" Then, listen to Bhatt read her work, following our annotation procedure as modeled with Hughes's \"Harlem.\" ",
+          "bold": true
+        },
+        {
+          "text": "Depending on your instructor, you may either do these annotations directly in an AVAnnotate project (that you should then share with your instructor) or on paper."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Remember: Annotation is a recursive process! Annotate first for things that stick out to you; then for moments where the poet engages with form, sounds, or ideas' then for poetic devices + why they're impactful."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -35,7 +104,12 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Once you're done annotating your poem, use them to help you construct a 3-5 minute oral analysis answering the following prompt:"
+          "text": "Once you're done annotating your poem, use them to help you construct a "
+        },
+        {
+          "text": "3-5 minute oral analysis answering the following prompt:",
+          "bold": true,
+          "underline": true
         }
       ]
     },
@@ -43,6 +117,18 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-three",
           "text": "How do individuals navigate their relationships with the communities around them? Use textual evidence and poetic devices to discuss how your poem explores this question, being sure to address how your poet utilizes sound to do so. "
         }
       ]
@@ -51,7 +137,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In your response, be sure to:"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In your response, be sure to:",
+          "bold": true,
+          "underline": true
         }
       ]
     },
@@ -129,15 +225,15 @@
       ]
     }
   ],
-  "title": "Sujata Bhatt, \"Search for My Tongue\"",
+  "title": "Sujata Bhatt, \"A Different History\"",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "sujata-bhatt-search-for-my-tongue",
+  "slug": "sujata-bhatt-a-different-history",
   "created_at": "2026-08-24T18:38:33.976Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T00:04:48.896Z",
+  "updated_at": "2026-08-26T01:53:51.258Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

@@ -13,7 +13,53 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Selina_Tusitala_Marsh_wins_Humanities_Aronui_Medal_at_2019_Research_Honours_Aotearoa_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "According to "
+        },
+        {
+          "text": "Poetry Archive",
+          "link": "https://poetryarchive.org/poet/selina-tusitala-marsh/"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Selina Tusitala March",
+          "bold": true
+        },
+        {
+          "text": " (1971-) playfully explores the worlds of modern New Zealand and her Pacific Island heritage in her work. In fact, Marsh was the first Pacific Islander to earn a PhD in English from the University of Auckland, was named the official Commonwealth Poet in 2016, and served as the New Zealand Poet Laureate from 2017-2019. Her work is inspired by Pacific oral traditions and storytelling, as well as the rhythms of her spoken language; thus, sound is an especially important component of her work."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -48,6 +94,26 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "5474e7f2-74b8-4104-95b4-3ffee3ceb507",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -172,28 +238,20 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Your instructor will give you specific instructions on how to record and where to submit your analysis."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n\n\n"
+          "text": "Your instructor will give you specific instructions on how to record and where to submit your analysis.\n\n"
         }
       ]
     }
   ],
-  "title": "\"Tusitala,\" by Selina Tusitala Marsh",
+  "title": "Selina Tusitala Marsh, \"Tusitala\"",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "tusitala-by-selina-tusitala-marsh",
+  "slug": "selina-tusitala-marsh-tusitala",
   "created_at": "2026-08-24T18:39:41.161Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T03:21:25.849Z",
+  "updated_at": "2026-08-26T03:28:35.567Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

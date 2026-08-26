@@ -4,7 +4,183 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Be sure you have a copy of Noonuccal's poem, \"We Are Going\" Then, listen to Nichols read her work, following our annotation procedure as modeled with Hughes's \"Harlem.\""
+        },
+        {
+          "text": " Depending on your instructor, you may either do these annotations directly in an AVAnnotate project (that you should then share with your instructor) or on paper."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Remember: Annotation is a recursive process! Annotate first for things that stick out to you; then for moments where the poet engages with form, sounds, or ideas' then for poetic devices + why they're impactful. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Once you're done annotating your poem, use them to help you construct a "
+        },
+        {
+          "text": "3-5 minute oral analysis answering the following prompt:",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "How do individuals navigate their relationships with the communities around them? Use textual evidence and poetic devices to discuss how your poem explores this question, being sure to address how your poet utilizes sound to do so. ",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In your response, be sure to:",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Begin with a thesis statement that clearly addresses all components of the prompt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Discuss at least 2-3 direct quotes from the poem to support your thesis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Use poetic devices to explain HOW these direct quotes support your thesis and WHY it's important to the overall ideas of the poem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "End with a final \"so what?\" that clearly circles back to your thesis and addresses how this poem connects to the overall human experience (i.e., theme). "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Your instructor will give you specific instructions on how to record and where to submit your analysis."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
         }
       ]
     }
@@ -17,7 +193,7 @@
   "slug": "we-are-going-by-oodgeroo-noonuccal",
   "created_at": "2026-08-24T18:39:41.161Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-25T23:59:33.455Z",
+  "updated_at": "2026-08-26T02:50:39.537Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

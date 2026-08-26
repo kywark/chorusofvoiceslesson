@@ -23,7 +23,7 @@
       "children": [
         {
           "bold": true,
-          "text": "Be sure you have a copy of Noonuccal's poem, \"We Are Going\" Then, listen to Nichols read her work, following our annotation procedure as modeled with Hughes's \"Harlem.\""
+          "text": "Be sure you have a copy of Marsh's poem, \"Tusitala\" Then, listen to Marsh read her work, following our annotation procedure as modeled with Hughes's \"Harlem.\""
         },
         {
           "text": " Depending on your instructor, you may either do these annotations directly in an AVAnnotate project (that you should then share with your instructor) or on paper."
@@ -185,15 +185,15 @@
       ]
     }
   ],
-  "title": "\"We Are Going,\" by Oodgeroo Noonuccal",
+  "title": "\"Tusitala,\" by Selina Tusitala Marsh",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "we-are-going-by-oodgeroo-noonuccal",
+  "slug": "tusitala-by-selina-tusitala-marsh",
   "created_at": "2026-08-24T18:39:41.161Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T02:50:39.537Z",
+  "updated_at": "2026-08-26T03:21:25.849Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

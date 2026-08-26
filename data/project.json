@@ -1,1 +1,56 @@
-{"publish":{"publish_pages_app":true,"publish_static_site":false,"publish_sha":"","publish_iso_date":"","include_slug_in_base":true},"users":[{"login_name":"kywark","avatar_url":"https://avatars.githubusercontent.com/u/63518403?v=4","admin":true}],"project":{"github_org":"kywark","is_private":false,"title":"Chorus of Voices: Sound in Poetry Around the World","description":"This lesson is intended for use in sophomore level high school classrooms, though it could certainly be adapted for other grade levels in 9-12 education. It serves as an introduction to working with sound in poetry, moving students through the analytical process of close reading a poem (paraphrase → observe → contextualize → analyze → argue → reflect). By the end of the ~50 minute lesson, students will practice applying poetic analysis of sound to their own poem of choice from around the world, culminating in an informal oral analysis.","language":"en","slug":"chorusofvoiceslesson","creator":"kywark","authors":"Kylie Warkentin","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2026-08-24T00:31:45.386Z","updated_at":"2026-08-26T03:28:35.987Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"78663de4-ea8d-4b5d-8217-a1b9a91cc310":{"content":[],"created_at":"2026-08-24T00:31:45.411Z","created_by":"kywark","title":"Chorus of Voices: An Introduction to Sound in Poetry","updated_at":"2026-08-24T00:31:45.411Z","updated_by":"kywark","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["78663de4-ea8d-4b5d-8217-a1b9a91cc310"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_static_site": false,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "include_slug_in_base": true
+  },
+  "users": [
+    {
+      "login_name": "kywark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63518403?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "kywark",
+    "is_private": false,
+    "title": "Chorus of Voices: Sound in Poetry Around the World",
+    "description": "This lesson is intended for use in sophomore level high school classrooms, though it could certainly be adapted for other grade levels in 9-12 education. It serves as an introduction to working with sound in poetry, moving students through the analytical process of close reading a poem (paraphrase → observe → contextualize → analyze → argue → reflect). By the end of the ~50 minute lesson, students will practice applying poetic analysis of sound to their own poem of choice from around the world, culminating in an informal oral analysis.",
+    "language": "en",
+    "slug": "chorusofvoiceslesson",
+    "creator": "kywark",
+    "authors": "Kylie Warkentin",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-08-24T00:31:45.386Z",
+    "updated_at": "2026-08-26T03:37:32.846Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "78663de4-ea8d-4b5d-8217-a1b9a91cc310": {
+      "content": [],
+      "created_at": "2026-08-24T00:31:45.411Z",
+      "created_by": "kywark",
+      "title": "Chorus of Voices: An Introduction to Sound in Poetry",
+      "updated_at": "2026-08-24T00:31:45.411Z",
+      "updated_by": "kywark",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "78663de4-ea8d-4b5d-8217-a1b9a91cc310"
+  ]
+}

@@ -47,14 +47,23 @@
       "children": [
         {
           "bold": true,
-          "text": "Be sure you have a copy of Szymborska's poem, \"The End and the Beginning.\" Then, listen to "
+          "text": "Be sure you have a copy of "
+        },
+        {
+          "bold": true,
+          "text": "Szymborska's poem, \"The End and the Beginning\" (translated by Joanna Trzeck)",
+          "link": "https://www.poetryfoundation.org/poems/52955/the-end-and-the-beginning"
+        },
+        {
+          "bold": true,
+          "text": ". Then, listen to "
         },
         {
           "type": "link",
           "url": "https://www.youtube.com/@KristenTwardowskiAntiqueThings",
           "children": [
             {
-              "text": "Kristen Twardowski",
+              "text": "Kristen Twardowski ",
               "bold": true
             }
           ]
@@ -245,7 +254,7 @@
   "slug": "wislawa-szymborska-the-end-and-the-beginnin",
   "created_at": "2026-08-24T18:39:19.718Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T02:37:39.315Z",
+  "updated_at": "2026-08-26T03:56:27.305Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

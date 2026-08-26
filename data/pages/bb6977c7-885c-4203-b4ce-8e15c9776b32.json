@@ -149,7 +149,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "stanza: a group of lines in a poem that are arranged together; a \"paragraph\" in poetry."
+                      "text": "stanza",
+                      "bold": true
+                    },
+                    {
+                      "text": ": a group of lines in a poem that are arranged together; a \"paragraph\" in poetry."
                     }
                   ]
                 },
@@ -157,7 +161,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "enjambment: when a sentence or thought continues past the end of a poetic line without punctuation."
+                      "text": "enjambment",
+                      "bold": true
+                    },
+                    {
+                      "text": ": when a sentence or thought continues past the end of a poetic line without punctuation."
                     }
                   ]
                 },
@@ -165,7 +173,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "simile: a comparison between two unlike things using “like” or “as.”"
+                      "text": "simile",
+                      "bold": true
+                    },
+                    {
+                      "text": ": a comparison between two unlike things using “like” or “as.”"
                     }
                   ]
                 },
@@ -173,7 +185,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "rhyme: repeating similar or identical sounds, usually at the ends of lines."
+                      "text": "rhyme",
+                      "bold": true
+                    },
+                    {
+                      "text": ": repeating similar or identical sounds, usually at the ends of lines."
                     }
                   ]
                 },
@@ -181,7 +197,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "rhetorical question: a question asked to create an effect or make the audience think rather than to receive an actual answer."
+                      "text": "rhetorical question: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "a question asked to create an effect or make the audience think rather than to receive an actual answer."
                     }
                   ]
                 },
@@ -189,7 +209,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "repetition: repeating a word, phrase, sound, or idea to emphasize it or create a particular effect."
+                      "text": "repetition",
+                      "bold": true
+                    },
+                    {
+                      "text": ": repeating a word, phrase, sound, or idea to emphasize it or create a particular effect."
                     }
                   ]
                 },
@@ -197,7 +221,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "comparison: looking at two things to see how they are alike."
+                      "text": "comparison",
+                      "bold": true
+                    },
+                    {
+                      "text": ": looking at two things to see how they are alike."
                     }
                   ]
                 },
@@ -205,7 +233,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "contrast: looking at two things to see how they are different."
+                      "text": "contrast",
+                      "bold": true
+                    },
+                    {
+                      "text": ": looking at two things to see how they are different."
                     }
                   ]
                 }
@@ -231,7 +263,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "anaphora: repeating a word or phrase at the beginning of multiple lines, sentences, or clauses."
+                      "text": "anaphora",
+                      "bold": true
+                    },
+                    {
+                      "text": ": repeating a word or phrase at the beginning of multiple lines, sentences, or clauses."
                     }
                   ]
                 },
@@ -239,7 +275,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "personification: giving human qualities or actions to something nonhuman or abstract."
+                      "text": "personification",
+                      "bold": true
+                    },
+                    {
+                      "text": ": giving human qualities or actions to something nonhuman or abstract."
                     }
                   ]
                 },
@@ -247,7 +287,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "alliteration: repeating the beginning consonant sound in nearby words."
+                      "text": "alliteration",
+                      "bold": true
+                    },
+                    {
+                      "text": ": repeating the beginning consonant sound in nearby words."
                     }
                   ]
                 },
@@ -255,7 +299,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "consonance: repeating consonant sounds"
+                      "text": "consonance",
+                      "bold": true
+                    },
+                    {
+                      "text": ": repeating consonant sounds"
                     },
                     {
                       "text": " ",
@@ -270,7 +318,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "sibilance: repeating “hissing” consonant sounds, especially "
+                      "text": "sibilance",
+                      "bold": true
+                    },
+                    {
+                      "text": ": repeating “hissing” consonant sounds, especially "
                     },
                     {
                       "text": "s, sh, z,",
@@ -292,7 +344,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "assonance: repeating vowel sounds in nearby words."
+                      "text": "assonance",
+                      "bold": true
+                    },
+                    {
+                      "text": ": repeating vowel sounds in nearby words."
                     }
                   ]
                 },
@@ -300,7 +356,23 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "caesura: a deliberate pause within a line of poetry, often created by punctuation."
+                      "text": "caesura",
+                      "bold": true
+                    },
+                    {
+                      "text": ": a deliberate pause within a line of poetry, often created by punctuation."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "parallelism",
+                      "bold": true
+                    },
+                    {
+                      "text": ": using the same grammatical or conceptual structure in one or more sentences."
                     }
                   ]
                 }
@@ -348,14 +420,14 @@
       ]
     }
   ],
-  "title": "Part I: Learn Harlem (3/4)",
+  "title": "Part I: Additional Harlem Annotations (3/4)",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "part-i-learn-harlem-34",
+  "slug": "part-i-additional-harlem-annotations-34",
   "created_at": "2026-08-24T14:28:48.352Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T18:57:18.256Z",
+  "updated_at": "2026-08-26T17:47:34.264Z",
   "updated_by": "kywark"
 }

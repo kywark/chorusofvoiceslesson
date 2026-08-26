@@ -4,14 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This lesson is intended for use in sophomore level high school classrooms, though it could certainly be adapted for other grade levels in 9-12 education. It serves as an introduction to working with sound in poetry, moving students through the analytical process of close reading a poem. "
-        },
-        {
-          "text": "By the end of the ~60 minute lesson,",
-          "bold": true
-        },
-        {
-          "text": " students will practice applying poetic analysis of sound to their own poem of choice from around the world, culminating in an informal oral analysis."
+          "text": "Created by Kylie Warkentin.",
+          "italic": true
         }
       ]
     },
@@ -27,19 +21,57 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Students can work individually or in pairs. It is entirely self-paced for the students. To deliver this lesson, simply provide this project link to students: "
-        },
+          "text": "This lesson is intended for use in sophomore level high school classrooms, though it could certainly be adapted for other grade levels in 9-12 education. It serves as an introduction to working with sound in poetry, comprising of two parts. Part I models how to close read and annotate a poem (paying particular attention to sound) using Langston Hughes’s “Harlem.\" In Part II, students will apply what they learned about close reading, annotation, sound, and other poetic devices to a poem from around the world of their choice, culminating in an informal oral analysis. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "https://kywark.github.io/chorusofvoiceslesson/",
-          "link": "https://kywark.github.io/chorusofvoiceslesson/",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "By the end of the ~60 minute lesson,"
         },
         {
-          "text": ".",
-          "bold": true
+          "text": " students will be able to:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "closely read and annotate a poem, identifying and analyzing how sound and poetic devices contribute to its meaning;"
+            }
+          ]
         },
         {
-          "text": " Then, be sure they have a print out of \"Harlem\" by Langston Hughes and whatever poem they select for \"Part II: Explore Your Own Poem!\" "
+          "type": "list-item",
+          "children": [
+            {
+              "text": "apply this close-reading process independently to a poem of their choice; and"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "use textual evidence and analysis of sound and other poetic devices to explain how a poem explores a larger thematic question."
+            }
+          ]
         }
       ]
     },
@@ -55,7 +87,118 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "They will navigate through the lesson by reading, watching, and listening to the resources in the project. Anything that is "
+          "text": "Students can work individually or in pairs. It is entirely self-paced for the students. "
+        },
+        {
+          "text": "To deliver this lesson, simply provide this project link to students: ",
+          "bold": true
+        },
+        {
+          "type": "link",
+          "url": "https://kywark.github.io/chorusofvoiceslesson/",
+          "children": [
+            {
+              "text": "https://kywark.github.io/chorusofvoiceslesson/",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "text": ". ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For materials, students will need:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Laptop and headphones"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Print out of "
+            },
+            {
+              "text": "\"Harlem\" by Langston Hughes",
+              "link": "https://www.poetryfoundation.org/poems/46548/harlem"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Print out of their chosen poem (found in "
+            },
+            {
+              "text": "\"Part II: Explore Your Own Poem!\"",
+              "link": "https://kywark.github.io/chorusofvoiceslesson/pages/part-ii-explore-your-own-poem/"
+            },
+            {
+              "text": ")"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Depending on your level of comfort with AVAnnotate, you can either require students to create their own AVAnnotate project with their annotations of their chosen poem and their recorded oral analyses, or you can simply provide students with a physical copy of their chosen poem and allow them to record their analyses in a method of your choosing (voice memo on phone, recording on laptop, handwritten analysis, etc.). For support on how students can build their own AVAnnotate project, please consult the instructions and resources "
+        },
+        {
+          "type": "link",
+          "url": "https://avannotate.github.io/documentation/",
+          "children": [
+            {
+              "text": "found in our documentation."
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Students  will navigate through the lesson by reading, watching, and listening to the resources in the project. Anything that is "
         },
         {
           "text": "bolded",
@@ -70,11 +213,24 @@
           "underline": true
         },
         {
-          "text": " is a question (or questions) that students will respond to in a method of your choosing (e.g., Google Doc, notebook paper, etc.). "
-        },
+          "text": " is a question (or questions) that students will respond to in a method of your choosing (e.g., Google Doc, notebook paper, etc.). For ease of grading, the required written responses are listed below:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "By the end of the lesson, students should have responses addressing:",
-          "bold": true
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Part I: Harlem"
         }
       ]
     },
@@ -152,14 +308,6 @@
               "text": "2-3 sentence answer addressing what they believe Hughes is trying to convey at the bottom of their \"Harlem\" annotations."
             }
           ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Their annotations and notes for their chosen poem in \"Part II: Explore Your Own Poem!\" (that will eventually turn into an oral analysis of their chosen poem)."
-            }
-          ]
         }
       ]
     },
@@ -167,11 +315,38 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The lesson culminates in annotations and an oral analysis of the students' chosen poem. Depending on your level of comfort with AVAnnotate, you can either provide students with a physical copy of their chosen poem and allow them to record their oral analyses in a method of your choosing (voice memo on phone, recording on laptop, handwritten analysis, etc.), or you could have them build their own AVAnnotate project with their annotations and analyses. To support on how students can build their own AVAnnotate project, please consult the instructions and resources "
+          "text": "Part II: Explore Your Own Poem!",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "N.B.: This portion of the lesson could be assigned for homework or in a following class.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Annotations (either as an AVAnnotate Project or on a print out of their chosen poem)"
+            }
+          ]
         },
         {
-          "text": "found in our documentation.",
-          "link": "https://avannotate.github.io/documentation/"
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Analysis (either as a 3-5 minute oral analysis or handwritten analytical paragraph)"
+            }
+          ]
         }
       ]
     },
@@ -192,6 +367,6 @@
   "slug": "home",
   "created_at": "2026-08-24T00:37:19.125Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T18:13:18.819Z",
+  "updated_at": "2026-08-26T03:53:52.747Z",
   "updated_by": "kywark"
 }

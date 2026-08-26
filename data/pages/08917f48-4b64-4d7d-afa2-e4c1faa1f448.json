@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Now, compare your annotations to these example annotations and listen to the explanation behind them. "
+          "text": " annotations to these example annotations and listen to the explanation behind them. "
         },
         {
           "text": "What do you notice? How does your annotation process compare? Jot down 3-4 observations.\n",
@@ -42,9 +42,17 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
-              "url": "https://ia601507.us.archive.org/10/items/screenshot-2026-08-23-at-10.23.59-pm/Screenshot%202026-08-23%20at%2010.23.59%E2%80%AFPM.png",
-              "caption": "Created by Kylie Warkentin.",
+              "url": "https://dn721907.ca.archive.org/0/items/screenshot-2026-08-23-at-10.23.59-pm/Screenshot%202026-08-23%20at%2010.23.59%E2%80%AFPM.png",
+              "caption": "Annotations by Kylie Warkentin.",
               "children": [
                 {
                   "text": ""
@@ -190,14 +198,14 @@
       ]
     }
   ],
-  "title": "Part I: Learn Harlem (2/4)",
+  "title": "Part I: First Round of Harlem Annotations",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "part-i-learn-harlem-24",
+  "slug": "part-i-first-round-of-harlem-annotations",
   "created_at": "2026-08-24T03:29:15.320Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-24T18:55:32.151Z",
+  "updated_at": "2026-08-26T15:56:39.867Z",
   "updated_by": "kywark"
 }

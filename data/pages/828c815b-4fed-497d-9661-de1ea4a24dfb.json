@@ -79,10 +79,17 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "7b56e429-49eb-4da3-b051-9edbd501e51b",
       "includes": [
-        "media",
-        "annotations"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -150,6 +157,6 @@
   "slug": "part-i-explicating-harlem-44",
   "created_at": "2026-08-24T14:47:33.834Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T17:48:16.397Z",
+  "updated_at": "2026-08-26T19:11:26.511Z",
   "updated_by": "kywark"
 }

@@ -1,8 +1,17 @@
 {
   "content": [
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://poetrylive.net/wp-content/uploads/2013/05/grace.jpg",
+      "url": "https://i.guim.co.uk/img/media/e4b55158ba2b7f27066c66e225c061faef6a7aa6/0_686_4904_2941/master/4904.jpg?width=980&dpr=2&s=none&crop=none",
+      "caption": "Photo by Suki Dhanda at The Observer, via The Guardian.",
       "children": [
         {
           "text": ""
@@ -209,7 +218,7 @@
   "slug": "grace-nichols-to-my-coral-bones",
   "created_at": "2026-08-24T17:56:46.505Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T03:57:33.814Z",
+  "updated_at": "2026-08-28T16:44:20.388Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

@@ -4,23 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Student Instructions",
-          "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Today, you'll be introduced to working with sound in poetry. In order to navigate this lesson, be sure first that you have received a copy of \"Harlem\" from your instructor. Then, you'll simply read and follow along with the instructions on the page, being sure to read/watch/listen to all the items enclosed."
         }
       ]
@@ -152,6 +135,6 @@
   "slug": "student-instructions",
   "created_at": "2026-08-24T03:12:48.343Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-28T18:26:58.960Z",
+  "updated_at": "2026-08-28T18:32:59.483Z",
   "updated_by": "kywark"
 }

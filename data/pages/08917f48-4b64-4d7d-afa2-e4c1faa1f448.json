@@ -14,11 +14,39 @@
       ]
     },
     {
+      "uuid": "07722768-d728-4b09-97be-119972133628",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
-          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://dn721907.ca.archive.org/0/items/screenshot-2026-08-23-at-10.23.59-pm/Screenshot%202026-08-23%20at%2010.23.59%E2%80%AFPM.png",
+      "caption": "Annotations by Kylie Warkentin.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -26,94 +54,8 @@
     {
       "type": "grid",
       "layout": [
-        3,
-        3
+        6
       ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://dn721907.ca.archive.org/0/items/screenshot-2026-08-23-at-10.23.59-pm/Screenshot%202026-08-23%20at%2010.23.59%E2%80%AFPM.png",
-              "caption": "Annotations by Kylie Warkentin.",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "07722768-d728-4b09-97be-119972133628",
-              "includes": [
-                "media"
-              ],
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -124,7 +66,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nLet’s add to your annotations with a second pass through, building off the good work you already did in your initial reading! To do so, consider the below image:"
+          "text": "Let’s add to your annotations with a second pass through, building off the good work you already did in your initial reading! To do so, consider the below image:"
         }
       ]
     },
@@ -204,7 +146,7 @@
         {
           "textSize": "heading-three",
           "text": "here",
-          "link": "https://kywark.github.io/chorusofvoiceslesson/pages/part-i-learn-harlem-34/"
+          "link": "https://kywark.github.io/chorusofvoiceslesson/pages/part-i-additional-harlem-annotations/"
         },
         {
           "textSize": "heading-three",
@@ -221,6 +163,6 @@
   "slug": "part-i-first-round-of-harlem-annotations",
   "created_at": "2026-08-24T03:29:15.320Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-28T16:33:54.207Z",
+  "updated_at": "2026-08-28T18:30:13.379Z",
   "updated_by": "kywark"
 }

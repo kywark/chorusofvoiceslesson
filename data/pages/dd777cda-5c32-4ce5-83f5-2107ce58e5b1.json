@@ -10,13 +10,13 @@
     },
     {
       "type": "image",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1Y-rDGDuHhJFbn3poeX2bMNqJrBBp-zTHrOrPgcyMrWvdjqo-5sNjxI&s=10",
+      "url": "https://carcanetpress-uk.imgix.net/authors/sujata-bhatt.jpg?auto=format&w=300&dpr=2&q=100",
+      "caption": "Photo via Carcanet.",
       "children": [
         {
           "text": ""
         }
-      ],
-      "align": "center"
+      ]
     },
     {
       "type": "paragraph",
@@ -187,12 +187,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Begin with a thesis statement that clearly addresses all components of the prompt."
-                }
-              ]
+              "text": "Begin with a thesis statement that clearly addresses all components of the prompt."
             }
           ]
         },
@@ -200,12 +195,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Discuss at least 2-3 direct quotes from the poem to support your thesis."
-                }
-              ]
+              "text": "Discuss at least 2-3 direct quotes from the poem to support your thesis."
             }
           ]
         },
@@ -213,12 +203,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Use poetic devices to explain HOW these direct quotes support your thesis and WHY it's important to the overall ideas of the poem."
-                }
-              ]
+              "text": "Use poetic devices to explain HOW these direct quotes support your thesis and WHY it's important to the overall ideas of the poem."
             }
           ]
         },
@@ -226,12 +211,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "End with a final \"so what?\" that clearly circles back to your thesis and addresses how this poem connects to the overall human experience (i.e., theme). "
-                }
-              ]
+              "text": "End with a final \"so what?\" that clearly circles back to your thesis and addresses how this poem connects to the overall human experience (i.e., theme). "
             }
           ]
         }
@@ -262,7 +242,7 @@
   "slug": "sujata-bhatt-a-different-history",
   "created_at": "2026-08-24T18:38:33.976Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T03:56:59.976Z",
+  "updated_at": "2026-08-28T16:41:48.541Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

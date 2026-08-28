@@ -10,8 +10,25 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
       "url": "https://www.nybooks.com/wp-content/uploads/2013/04/simic_1-122211.jpg",
+      "caption": "Photo by Joana Helander, via The New York Review.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -179,12 +196,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Begin with a thesis statement that clearly addresses all components of the prompt."
-                }
-              ]
+              "text": "Begin with a thesis statement that clearly addresses all components of the prompt."
             }
           ]
         },
@@ -192,12 +204,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Discuss at least 2-3 direct quotes from the poem to support your thesis."
-                }
-              ]
+              "text": "Discuss at least 2-3 direct quotes from the poem to support your thesis."
             }
           ]
         },
@@ -205,12 +212,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Use poetic devices to explain HOW these direct quotes support your thesis and WHY it's important to the overall ideas of the poem."
-                }
-              ]
+              "text": "Use poetic devices to explain HOW these direct quotes support your thesis and WHY it's important to the overall ideas of the poem."
             }
           ]
         },
@@ -218,12 +220,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "End with a final \"so what?\" that clearly circles back to your thesis and addresses how this poem connects to the overall human experience (i.e., theme). "
-                }
-              ]
+              "text": "End with a final \"so what?\" that clearly circles back to your thesis and addresses how this poem connects to the overall human experience (i.e., theme). "
             }
           ]
         }
@@ -254,7 +251,7 @@
   "slug": "wislawa-szymborska-the-end-and-the-beginnin",
   "created_at": "2026-08-24T18:39:19.718Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-26T03:56:27.305Z",
+  "updated_at": "2026-08-28T16:37:40.655Z",
   "updated_by": "kywark",
   "parent": "51c69f33-adac-4c2b-91aa-a078c75db37b"
 }

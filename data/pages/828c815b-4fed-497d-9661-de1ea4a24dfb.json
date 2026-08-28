@@ -23,9 +23,17 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://ia903209.us.archive.org/6/items/gen_20260824/Gen.png",
-      "caption": "Created by Kylie Warkentin.",
+      "url": "https://ia601400.us.archive.org/4/items/gen_20260828/Gen.png",
+      "caption": "Annotations by Kylie Warkentin.",
       "children": [
         {
           "text": ""
@@ -157,6 +165,6 @@
   "slug": "part-i-explicating-harlem",
   "created_at": "2026-08-24T14:47:33.834Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-28T16:19:05.373Z",
+  "updated_at": "2026-08-28T16:32:13.187Z",
   "updated_by": "kywark"
 }
